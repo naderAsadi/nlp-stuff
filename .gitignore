@@ -1,0 +1,5 @@
+# Directories
+**/dataset
+**/env
+**/__pycache__
+**/.vscode
